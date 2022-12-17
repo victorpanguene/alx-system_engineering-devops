@@ -1,2 +1,2 @@
 #!/bash/bash
-ln -s /bin/ls __ls__
+mv [[:upper:]]* /tmp/u
